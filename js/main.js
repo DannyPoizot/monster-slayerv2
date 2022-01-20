@@ -22,10 +22,9 @@ sectionGame.hidden = true;
 
 class Character {
     
-    constructor(name, pv, damage) {
+    constructor(name, pv) {
         this.name = name;
         this.pv = pv;
-
     }
 
 
