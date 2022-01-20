@@ -26,10 +26,12 @@ class Character {
         this.name = name;
         this.pv = pv;
         this.damage = damage;
-        this.progress;
+        this.progress = progress;
     }
 
-    
+    attack() {
+        
+    }
 
 }
 
